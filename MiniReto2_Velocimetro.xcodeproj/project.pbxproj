@@ -49,7 +49,7 @@
 		D9D4C02F1DA1F87D000756C1 /* MiniReto2_VelocimetroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MiniReto2_VelocimetroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9D4C0331DA1F87D000756C1 /* MiniReto2_VelocimetroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniReto2_VelocimetroUITests.swift; sourceTree = "<group>"; };
 		D9D4C0351DA1F87D000756C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D9D4C0411DA1FF56000756C1 /* Velocimetro_MiniReto_Swift_Coursera.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Velocimetro_MiniReto_Swift_Coursera.playground; path = ../../Velocimetro_MiniReto_Swift_Coursera.playground; sourceTree = "<group>"; };
+		D9D4C0421DA20070000756C1 /* Velocimetro_MiniReto_Swift_Coursera.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Velocimetro_MiniReto_Swift_Coursera.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +80,7 @@
 		D9D4C0041DA1F87D000756C1 = {
 			isa = PBXGroup;
 			children = (
+				D9D4C0421DA20070000756C1 /* Velocimetro_MiniReto_Swift_Coursera.playground */,
 				D9D4C00F1DA1F87D000756C1 /* MiniReto2_Velocimetro */,
 				D9D4C0271DA1F87D000756C1 /* MiniReto2_VelocimetroTests */,
 				D9D4C0321DA1F87D000756C1 /* MiniReto2_VelocimetroUITests */,
@@ -103,7 +104,6 @@
 				D9D4C0101DA1F87D000756C1 /* AppDelegate.swift */,
 				D9D4C0121DA1F87D000756C1 /* ViewController.swift */,
 				D9D4C0141DA1F87D000756C1 /* Main.storyboard */,
-				D9D4C0411DA1FF56000756C1 /* Velocimetro_MiniReto_Swift_Coursera.playground */,
 				D9D4C01A1DA1F87D000756C1 /* Assets.xcassets */,
 				D9D4C01C1DA1F87D000756C1 /* LaunchScreen.storyboard */,
 				D9D4C01F1DA1F87D000756C1 /* Info.plist */,
